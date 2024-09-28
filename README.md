@@ -1,1 +1,1 @@
-O SilvioLinux é Uma Distro Linux Baseado Em Gentoo Linux Ele Usa o Instalador Calamares
+O SilvioLinux é Uma Distribuição Linux Feito do Zero Usando Linux From Scratch Ele Usa o Instalador Calamares
